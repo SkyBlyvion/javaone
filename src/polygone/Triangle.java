@@ -1,3 +1,5 @@
+package polygone;
+
 public class Triangle {
     // propriete du triangle
     private float hauteur;

@@ -1,3 +1,7 @@
+import polygone.Cercle;
+import polygone.Rectangle;
+import polygone.Triangle;
+
 public class CalculDAire {
 
     public static void main(String[] args) {

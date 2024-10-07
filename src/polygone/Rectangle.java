@@ -1,3 +1,5 @@
+package polygone;
+
 public class Rectangle {
     private float longueur;
     private float largeur;

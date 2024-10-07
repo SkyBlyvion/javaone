@@ -1,3 +1,5 @@
+package polygone;
+
 public class Cercle {
 
     private float diametre;
