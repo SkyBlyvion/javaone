@@ -7,7 +7,7 @@ public class Main {
         int age;
         age = 24;
 
-        // long represente un entier
+        // long représente un entier
         long caEntreprise = 25600000L;
 
         // true ou false
