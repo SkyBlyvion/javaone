@@ -1,0 +1,9 @@
+services:
+  java:
+    build:
+      context: .
+    container_name: javaone
+    volumes:
+      - ./src:/app
+    stdin_open: true
+    tty: true
