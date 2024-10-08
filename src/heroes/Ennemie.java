@@ -1,10 +1,9 @@
 package heroes;
 
-public class Mage extends Personnage implements Mouvement, PouvoirMagique {
-    @Override
-    public void PouvoirDefeu() {
 
-    }
+public class Ennemie extends Personnage implements Mouvement {
+
+
 
     @Override
     public void marcher() {
@@ -33,6 +32,6 @@ public class Mage extends Personnage implements Mouvement, PouvoirMagique {
 
     @Override
     public void criDeGuerre() {
-        System.out.println("By the powaaaaarrrr of the elders !! ");
+
     }
 }

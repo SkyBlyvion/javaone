@@ -1,6 +1,6 @@
 package heroes;
 
-public interface a {
+public interface PouvoirMagique {
 
     public void PouvoirDefeu();
 }
