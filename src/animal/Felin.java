@@ -6,13 +6,16 @@ public class Felin extends Mammifere {
     private int nbrDeVie;
     private String regime;
 
+
     public Felin() {}
 
-    public Felin(String nom, int nbrDeVie, String regime) {
+    public Felin(String nom, int nbrDeVie, String regime, int nbrPatte) {
+
         this.nom = nom;
         this.nbrDeVie = nbrDeVie;
         this.regime = regime;
     }
+
 
     public String getNom() {
         return nom;

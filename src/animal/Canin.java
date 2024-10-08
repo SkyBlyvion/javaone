@@ -38,4 +38,9 @@ public class Canin extends Mammifere {
     public void setAge(int age) {
         this.age = age;
     }
+
+    @Override
+    public void pousseUnCri() {
+        System.out.println("I'm a Canin and I'm so cute");
+    }
 }
