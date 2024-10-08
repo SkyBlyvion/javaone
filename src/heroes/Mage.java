@@ -1,6 +1,6 @@
 package heroes;
 
-public class Mage extends Personnage implements Mouvement, PouvoirMagique {
+public class Mage extends Personnage implements Mouvement, a {
     @Override
     public void PouvoirDefeu() {
 
